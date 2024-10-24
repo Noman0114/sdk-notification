@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179510027418",
+    "project_id": "caremindproject",
+    "storage_bucket": "caremindproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179510027418:android:65668e9f1fbeadb0e82b23",
+        "android_client_info": {
+          "package_name": "com.abdulrehman344.caremind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi5Bj2HNxwkweazSWmtZoMp36BzuQGOII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
